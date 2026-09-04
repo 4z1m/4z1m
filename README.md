@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Azim!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=Developer+%7C+Builder;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Vibe+Coder+%F0%9F%9A%80;Building+ideas+into+reality;Code.+Create.+Experiment.;Turning+random+ideas+into+projects." alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -14,14 +14,33 @@
 
 ## 🚀 About Me
 
-- 💻 I love building websites, tools, and infrastructure projects
-- 🐧 Linux & server enthusiast
-- ☁️ Interested in cloud computing, VPS hosting & virtualization
-- ⚡ Working with KVM, QEMU, Docker and cloud infrastructure
-- 🛠️ Always experimenting with new technologies
-- 🚀 Building projects under **NXR Technologies**
+I'm a **vibe coder, builder, and tech enthusiast** who loves turning random ideas into actual projects.
 
-## 🔧 Tech Stack
+I don't always start with a perfect plan — sometimes I just have an idea, open the terminal, start coding, break something, fix it, and somehow end up with a working project. 😭
+
+* 💻 Turning ideas into websites, tools & projects
+* 🤖 Exploring AI-assisted & vibe coding
+* 🐧 Linux & terminal enthusiast
+* ☁️ Into cloud computing, VPS & infrastructure
+* 🛠️ Love experimenting with new technologies
+* 🚀 Building things under **NXR Technologies**
+* 🔥 Learning by building, breaking & rebuilding
+
+> **Have an idea? Build it. Make it work. Make it better.**
+
+## 🧠 What I Build
+
+```text
+🌐 Websites & Web Apps
+🤖 AI Projects
+☁️ Cloud & Infrastructure
+🖥️ VPS & Server Tools
+🐧 Linux Projects
+🎮 Game Hosting
+⚙️ Automation & Developer Tools
+```
+
+## 🔧 Tech I Use
 
 **Languages**
 
@@ -35,13 +54,15 @@
 
 `VPS` `Cloud Computing` `Virtualization` `Game Hosting` `Server Management`
 
-## 📌 Projects
+## 📌 Current Projects
 
 ### ⚡ NXR Technologies
-Virtualization, VPS and infrastructure projects.
+
+Building and experimenting with virtualization, cloud infrastructure, VPS and other technology projects.
 
 ### 🖥️ KVM VPS Manager
-A lightweight Bash + QEMU manager for creating and managing KVM virtual machines.
+
+A lightweight Bash + QEMU project for creating and managing KVM virtual machines.
 
 ## 📊 GitHub Stats
 
@@ -67,5 +88,5 @@ A lightweight Bash + QEMU manager for creating and managing KVM virtual machines
 ---
 
 <p align="center">
-  <b>⚡ Build. Break. Learn. Repeat.</b>
+  <b>⚡ Think it. Vibe it. Build it.</b>
 </p>
