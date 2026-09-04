@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **vibe coder, builder, and tech enthusiast** who loves turning random ideas into actual projects.
+I'm a **vibe coder and builder** who loves turning random ideas into actual projects.
 
 I don't always start with a perfect plan — sometimes I just have an idea, open the terminal, start coding, break something, fix it, and somehow end up with a working project. 😭
 
